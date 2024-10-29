@@ -1,22 +1,85 @@
 {
-  "identity": {
-    "name": "Alex Stilian",
-    "role": "Store Associate",
-    "location": "Home Depot, [City, State]",
-    "tools": [
-      "Point of Sale (POS) System",
-      "Inventory Management Software",
-      "Safety Equipment (gloves, goggles)",
-      "Hand Tools (screwdrivers, hammers)",
-      "Forklift (if certified)"
-    ],
-    "specialty": [
-      "Customer Service",
-      "Home Improvement Knowledge",
-      "Product Display and Merchandising",
-      "Inventory Control",
-      "Sales Support"
-    ]
-  }
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alex Stilian",
+      "role": "Store Associate",
+      "location": "Los Angeles, CA",
+      "specialties": [
+        "Customer Service",
+        "Home Improvement Knowledge",
+        "Inventory Control"
+      ],
+      "tools": [
+        "Point of Sale (POS) System",
+        "Hand Tools",
+        "Forklift (if certified)"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Jamie Parker",
+      "role": "Department Supervisor",
+      "location": "New York, NY",
+      "specialties": [
+        "Team Management",
+        "Product Merchandising",
+        "Sales Strategies"
+      ],
+      "tools": [
+        "Inventory Management Software",
+        "Computer",
+        "Safety Equipment"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Taylor Brooks",
+      "role": "Sales Specialist",
+      "location": "Houston, TX",
+      "specialties": [
+        "Paint and Supplies",
+        "Customer Relations",
+        "Product Knowledge"
+      ],
+      "tools": [
+        "Tablet",
+        "POS System",
+        "Measuring Tools"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Jordan Lee",
+      "role": "Cashier",
+      "location": "Miami, FL",
+      "specialties": [
+        "Cash Handling",
+        "Customer Service",
+        "Transaction Processing"
+      ],
+      "tools": [
+        "Cash Register",
+        "POS System",
+        "Credit Card Reader"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Morgan Smith",
+      "role": "Inventory Clerk",
+      "location": "Seattle, WA",
+      "specialties": [
+        "Stock Management",
+        "Logistics",
+        "Data Entry"
+      ],
+      "tools": [
+        "Inventory Management Software",
+        "Scanner",
+        "Computer"
+      ]
+    }
+  ]
 }
 
