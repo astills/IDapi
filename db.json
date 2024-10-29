@@ -1,85 +1,54 @@
 {
-  "employees": [
+  "users": [
     {
       "id": 1,
-      "name": "Alex Stilian",
-      "role": "Store Associate",
-      "location": "Los Angeles, CA",
-      "specialties": [
-        "Customer Service",
-        "Home Improvement Knowledge",
-        "Inventory Control"
-      ],
-      "tools": [
-        "Point of Sale (POS) System",
-        "Hand Tools",
-        "Forklift (if certified)"
-      ]
+      "email": "alex.stilian@homedepot.com",
+      "phone": "555-123-4567",
+      "company": {
+        "name": "Home Depot",
+        "catchPhrase": "More saving. More doing.",
+        "bs": "Home improvement retail"
+      }
     },
     {
       "id": 2,
-      "name": "Jamie Parker",
-      "role": "Department Supervisor",
-      "location": "New York, NY",
-      "specialties": [
-        "Team Management",
-        "Product Merchandising",
-        "Sales Strategies"
-      ],
-      "tools": [
-        "Inventory Management Software",
-        "Computer",
-        "Safety Equipment"
-      ]
+      "email": "jamie.parker@homedepot.com",
+      "phone": "555-987-6543",
+      "company": {
+        "name": "Home Depot",
+        "catchPhrase": "You can do it. We can help.",
+        "bs": "Building materials and supplies"
+      }
     },
     {
       "id": 3,
-      "name": "Taylor Brooks",
-      "role": "Sales Specialist",
-      "location": "Houston, TX",
-      "specialties": [
-        "Paint and Supplies",
-        "Customer Relations",
-        "Product Knowledge"
-      ],
-      "tools": [
-        "Tablet",
-        "POS System",
-        "Measuring Tools"
-      ]
+      "email": "taylor.brooks@homedepot.com",
+      "phone": "555-555-1212",
+      "company": {
+        "name": "Home Depot",
+        "catchPhrase": "Save time. Save money.",
+        "bs": "Home and garden products"
+      }
     },
     {
       "id": 4,
-      "name": "Jordan Lee",
-      "role": "Cashier",
-      "location": "Miami, FL",
-      "specialties": [
-        "Cash Handling",
-        "Customer Service",
-        "Transaction Processing"
-      ],
-      "tools": [
-        "Cash Register",
-        "POS System",
-        "Credit Card Reader"
-      ]
+      "email": "jordan.lee@homedepot.com",
+      "phone": "555-222-3333",
+      "company": {
+        "name": "Home Depot",
+        "catchPhrase": "For all your home improvement needs.",
+        "bs": "Tools and appliances"
+      }
     },
     {
       "id": 5,
-      "name": "Morgan Smith",
-      "role": "Inventory Clerk",
-      "location": "Seattle, WA",
-      "specialties": [
-        "Stock Management",
-        "Logistics",
-        "Data Entry"
-      ],
-      "tools": [
-        "Inventory Management Software",
-        "Scanner",
-        "Computer"
-      ]
+      "email": "morgan.smith@homedepot.com",
+      "phone": "555-444-5678",
+      "company": {
+        "name": "Home Depot",
+        "catchPhrase": "Helping you create the home of your dreams.",
+        "bs": "DIY products and services"
+      }
     }
   ]
 }
-
