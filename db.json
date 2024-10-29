@@ -2,8 +2,21 @@
   "users": [
     {
       "id": 1,
+      "name": "Alex Stilian",
+      "username": "AlexS",
       "email": "alex.stilian@homedepot.com",
+      "address": {
+        "street": "123 Main St",
+        "suite": "Apt 1",
+        "city": "Los Angeles",
+        "zipcode": "90001",
+        "geo": {
+          "lat": "34.0522",
+          "lng": "-118.2437"
+        }
+      },
       "phone": "555-123-4567",
+      "website": "alexstilian.com",
       "company": {
         "name": "Home Depot",
         "catchPhrase": "More saving. More doing.",
@@ -12,8 +25,21 @@
     },
     {
       "id": 2,
+      "name": "Jamie Parker",
+      "username": "JamieP",
       "email": "jamie.parker@homedepot.com",
+      "address": {
+        "street": "456 Elm St",
+        "suite": "Suite 202",
+        "city": "New York",
+        "zipcode": "10001",
+        "geo": {
+          "lat": "40.7128",
+          "lng": "-74.0060"
+        }
+      },
       "phone": "555-987-6543",
+      "website": "jamieparker.com",
       "company": {
         "name": "Home Depot",
         "catchPhrase": "You can do it. We can help.",
@@ -22,8 +48,21 @@
     },
     {
       "id": 3,
+      "name": "Taylor Brooks",
+      "username": "TaylorB",
       "email": "taylor.brooks@homedepot.com",
+      "address": {
+        "street": "789 Oak St",
+        "suite": "Floor 3",
+        "city": "Houston",
+        "zipcode": "77001",
+        "geo": {
+          "lat": "29.7604",
+          "lng": "-95.3698"
+        }
+      },
       "phone": "555-555-1212",
+      "website": "taylorbrooks.com",
       "company": {
         "name": "Home Depot",
         "catchPhrase": "Save time. Save money.",
@@ -32,8 +71,21 @@
     },
     {
       "id": 4,
+      "name": "Jordan Lee",
+      "username": "JordanL",
       "email": "jordan.lee@homedepot.com",
+      "address": {
+        "street": "101 Pine St",
+        "suite": "B",
+        "city": "Miami",
+        "zipcode": "33101",
+        "geo": {
+          "lat": "25.7617",
+          "lng": "-80.1918"
+        }
+      },
       "phone": "555-222-3333",
+      "website": "jordanlee.com",
       "company": {
         "name": "Home Depot",
         "catchPhrase": "For all your home improvement needs.",
@@ -42,8 +94,21 @@
     },
     {
       "id": 5,
+      "name": "Morgan Smith",
+      "username": "MorganS",
       "email": "morgan.smith@homedepot.com",
+      "address": {
+        "street": "234 Maple St",
+        "suite": "C",
+        "city": "Seattle",
+        "zipcode": "98101",
+        "geo": {
+          "lat": "47.6062",
+          "lng": "-122.3321"
+        }
+      },
       "phone": "555-444-5678",
+      "website": "morgansmith.com",
       "company": {
         "name": "Home Depot",
         "catchPhrase": "Helping you create the home of your dreams.",
@@ -52,3 +117,4 @@
     }
   ]
 }
+
